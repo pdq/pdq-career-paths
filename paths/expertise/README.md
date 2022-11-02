@@ -3,15 +3,15 @@ Expertise is a byproduct of experience. Expertise is a direct reflection of lear
 
 Experience who are hobbyists tend to advance faster through these paths of experience. An engineer that loves to code and comes in excited to work tends to move more code and gain experience fast. If you love coding as a hobby and even actively code side project often, expect to advance quickly. Hobbyists are loved at PDQ!
 
-Technical Expertise and Influence is broken down in the following competencies:
+Technical Expertise and Influence is broken down to the following competencies:
 
-[Technical Expertise](technical-expertise.md)
-[Mentorship](mentorship.md)
-[Debugging](debugging.md)
-[Software Design & Architecture](software-design.md)
-[Decision Making](decision-making.md)
-[Coding Standards](coding-standards.md)
-[Planning](planning.md)
+- [Technical Expertise](technical-expertise.md)  
+- [Mentorship](mentorship.md)  
+- [Debugging](debugging.md)  
+- [Software Design & Architecture](software-design.md)  
+- [Decision Making](decision-making.md)  
+- [Coding Standards](coding-standards.md)  
+- [Planning](planning.md)  
 
 | Approaches 60% | 1 - Software Engineer I | 2 - Software Engineer II/III | 3 - Senior Software Engineer I | 4 - Senior Software Engineer II | 7 - Principal Architect I | 9 - Principal Architect III |
 | --- | --- | --- | --- | --- | --- | --- |
