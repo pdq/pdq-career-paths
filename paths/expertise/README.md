@@ -5,7 +5,7 @@ Experience who are hobbyists tend to advance faster through these paths of exper
 
 Technical Expertise and Influence is broken down to the following competencies:
 
-- [Technical Expertise](technical-expertise.md)  
+- [Technical Competency](technical-competency.md)  
 - [Mentorship](mentorship.md)  
 - [Debugging](debugging.md)  
 - [Software Design & Architecture](software-design.md)  
