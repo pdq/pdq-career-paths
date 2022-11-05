@@ -4,7 +4,7 @@ PDQ Career Paths offer promotions along two complementary and valued paths. The 
 
 They complement each other well because they are distinctly different ways to excel as an engineer, but they both lift the other. As we improve in one path, it will gradually and naturally improve our abilities in the other. It's a natural progression to improve in both as gradual offsets which become "eventually consistent".
 
-The titles associated with the overall career paths expect a minimum **sub-Path Level** in each path (explained below).
+The titles associated with the overall career paths expect a minimum "**sub-Path Level**" in each path (explained below).
 
 | Title                           | Technical Expertise & Influence  | GSD & Ownership          |
 | ------------------------------- | ------------------------------- | ------------------------ |
@@ -18,9 +18,9 @@ The titles associated with the overall career paths expect a minimum **sub-Path 
 | 8 - Principal Architect II      | 9 - Masters Exceeding           | 10 - Leads Approaching   |
 | 9 - Principal Architect III     | 10 - Creates Approaching        | 11 - Leads Exceeding     |
 
-There is a distinct **sub-Path Level** at each **Path Level** for, Approaching (meeting 60% of the expectations in the **Path Level**) and Exceeding (meeting 100% of the expecations in the **Path Level**). The current expecation is that in order to move from one **Path Level** to the next, that we meet 100% (Exceeding) of the **Path Level** before it. We've tried to generalize the **Path Level** expecations so that they focus on generalized best practices, but we realize that as we advance to some of the higher technical leadership roles, such as Staff to Principal, there is a tendency to start to specialize. Our hope is that the expectations continue to be generalized enough and applicable at those elevated leadership roles.
+There is a distinct "**sub-Path Level**" at each "**Path Level**" for, Approaching (meeting 60% of the expectations in the "**Path Level**") and Exceeding (meeting 100% of the expecations in the "**Path Level**"). The current expecation is that in order to move from one "**Path Level**" to the next, that we meet 100% (Exceeding) of the "**Path Level**" before it. We've tried to generalize the "**Path Level**" expecations so that they focus on generalized best practices, but we realize that as we advance to some of the higher technical leadership roles, such as Staff to Principal, there is a tendency to start to specialize. Our hope is that the expectations continue to be generalized enough and applicable at those elevated leadership roles.
 
-Advancement at each **sub-Path Level** is considered a promotion. Not all promotions will come with a title advancement, but they will come with a compensation increase. Currently, this advancement path is only open to one **sub-Path Level** advancement every six (6) months. The reasoning for this is two-fold:
+Advancement at each "**sub-Path Level**" is considered a promotion. Not all promotions will come with a title advancement, but they will come with a compensation increase. Currently, this advancement path is only open to one "**sub-Path Level**" advancement every six (6) months. The reasoning for this is two-fold:
 
 1. We expect the advancements to be challenging, and defined well enough that it will be clear that these advancements require dedication to personal development. 
 2. Many of these traits and best practices won't necessarily become habits over a short period of time. We ask that these improvements in our development behavior are exhibited over a six (6) month track record and come with several examples of each behavior during that time. They shouldn't be easily obtained by producing single one-off examples of each since we are looking for a tangible shift in the way we operate as engineers. 
