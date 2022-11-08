@@ -12,7 +12,7 @@ The titles associated with the overall career paths expect a minimum "**sub-Path
 | 2 - Software Engineer II/III    | 2 - Specializes Approaching     | 2 - Enhances Approaching |
 | 3 - Senior Software Engineer I  | 4 - Mentors Approaching         | 4 - Designs Approaching  |
 | 4 - Senior Software Engineer II | 5 - Mentors Exceeding           | 5 - Designs Exceeding    |
-| 5 - Staff Software Engineer I   | 7 - Evangelizes Exceeding       | 6 - Owns Approaching     |
+| 5 - Staff Software Engineer I   | 6 - Evangelizes Approaching     | 6 - Owns Approaching     |
 | 6 - Staff Software Engineer II  | 7 - Evangelizes Exceeding       | 7 - Owns Exceeding       |
 | 7 - Principal Architect I       | 8 - Masters Approaching         | 9 - Evolves Exceeding    |
 | 8 - Principal Architect II      | 9 - Masters Exceeding           | 10 - Leads Approaching   |
