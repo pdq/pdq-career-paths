@@ -1,5 +1,8 @@
 # PDQ Engineering Career Paths
 
+> [!WARNING]
+> **This document is out of date.** PDQ engineers should reference the current career paths in Notion: [Career Path Hub](https://app.notion.com/p/pdqhq/Career-Path-Hub-839964a5c896824c9e4f810bff349651). The content below is preserved for historical reference only.
+
 PDQ Career Paths offer promotions along two complementary and valued paths. The first, [Expertise and Influence](expertise/README.md), focuses on expertise and the experience gained as a software engineer. The second, [GSD and Ownership](gsd/README.md), is centered around the efficiency and ability to deliver value to the customer often.
 
 They complement each other well because they are distinctly different ways to excel as an engineer, but they both lift the other. As we improve in one path, it will gradually and naturally improve our abilities in the other. It's a natural progression to improve in both as gradual offsets which become "eventually consistent".
